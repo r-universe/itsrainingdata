@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ccdrAlgorithm"]
-	path = ccdrAlgorithm
-	url = https://github.com/itsrainingdata/ccdralgorithm
-	shallow = true
-	registered = true
 [submodule "sparsebnUtils"]
 	path = sparsebnUtils
 	url = https://github.com/itsrainingdata/sparsebnutils

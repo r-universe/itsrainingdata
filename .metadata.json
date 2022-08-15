@@ -1,9 +1,5 @@
 [
   {
-    "package": "ccdrAlgorithm",
-    "oncran": true
-  },
-  {
     "package": "sparsebnUtils",
     "oncran": true
   }
